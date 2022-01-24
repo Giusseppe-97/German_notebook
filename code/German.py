@@ -21,6 +21,7 @@ import pandas as pd
 import random
 import seaborn as sns
 import os
+from random import randint
 
 import openpyxl
 from openpyxl.utils.dataframe import dataframe_to_rows
